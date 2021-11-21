@@ -2,4 +2,6 @@
 @import "variables";
 
 // Подключение своих SCSS файлов
-@import "my";
+@import "gen";
+@import "container";
+@import "tree";
